@@ -9,5 +9,5 @@
 	{ "id": 6, "parentId": "1", "reportId": "1", "name": "Dasep Yudi Hidayat", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Koordinator Konsumen", "office": "KMP ADNG Kabupaten Garut" },
 	{ "id": 7, "parentId": "1", "reportId": "6", "name": "Komarudin", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Koordinator Pengusaha", "office": "KMP ADNG Kabupaten Garut" },
 	{ "id": 8, "parentId": "1", "reportId": "7", "name": "Aceng Suryana", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Koordinator Pekerja", "office": "KMP ADNG Kabupaten Garut" },
-	{ "id": 9, "parentId": "1", "reportId": "8", "name": "Antony Harun", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Koordinator Investor", "office": "KMP ADNG Kabupaten Garut" },
+	{ "id": 9, "parentId": "1", "reportId": "8", "name": "Antony Harun", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Koordinator Investor", "office": "KMP ADNG Kabupaten Garut" }
 ]
