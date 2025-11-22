@@ -1,3 +1,0 @@
-﻿name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Pendi Efendi Safari,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile,KMP ADNG Kabupaten Garut,Ketua,false,Ketua,KMPG1,,
-Ajang Herman,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,KMP ADNG Kabupaten Garut,Ketua,Tag1,false,CTO ,KMPG2,KMPG1,
