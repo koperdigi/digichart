@@ -1,11 +1,11 @@
 [
     { "id": 1, "parentId": "", "name": "Pendi Efendi Safari", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Ketua", "office": "KMP ADNG Kabupaten Garut" },
-	//Left Branch
+
     { "id": 2, "parentId": "1", "reportId": "1", "name": "Ajang Herman", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Sekretaris", "office": "KMP ADNG Kabupaten Garut" },
 	{ "id": 3, "parentId": "1", "reportId": "2", "name": "Deden Saepudin", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Bendahara", "office": "KMP ADNG Kabupaten Garut" },
 	{ "id": 4, "parentId": "1", "reportId": "3", "name": "Cece Maedi", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Pengawas", "office": "KMP ADNG Kabupaten Garut" },
 	{ "id": 5, "parentId": "1", "reportId": "4", "name": "Davi Ridho", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Koordinator IT", "office": "KMP ADNG Kabupaten Garut" },
-	//Right Branch
+
 	{ "id": 6, "parentId": "1", "reportId": "1", "name": "Dasep Yudi Hidayat", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Koordinator Konsumen", "office": "KMP ADNG Kabupaten Garut" },
 	{ "id": 7, "parentId": "1", "reportId": "6", "name": "Komarudin", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Koordinator Pengusaha", "office": "KMP ADNG Kabupaten Garut" },
 	{ "id": 8, "parentId": "1", "reportId": "7", "name": "Aceng Suryana", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg", "job": "Koordinator Pekerja", "office": "KMP ADNG Kabupaten Garut" },
